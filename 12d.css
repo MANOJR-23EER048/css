@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid black;
+    height: 100px;
+    align-items: center;
+}
+
+.item {
+    background-color: aqua;
+}
